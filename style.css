@@ -1,14 +1,12 @@
 body{
-    background-color: aqua;
+    background-color: rgb(199, 234, 234);
     margin: 0;
     padding: 0;
     text-align: center;
-
-
 }
 
 svg {
     background-color: white;
-    width: min(70vh, 10vw);
-    height: min(70vh, 10vw);
+    width: min(70vh, 100vw);
+    height: min(70vh, 100vw);
 }
